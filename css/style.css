@@ -640,7 +640,7 @@ blockquote p {
 	max-width: 100%;
 }
 
-.guter .col-lg-12, .guter .col-lg-6, .guter .col-lg-4 {
+.gutter .col-lg-12, .gutter .col-lg-6, .gutter .col-lg-4 {
 	margin-top: 15px;
 	margin-bottom: 15px;
 }
