@@ -161,7 +161,7 @@ textarea:focus, input:focus, a:focus, a:visited, *:focus {
 
 /* ==== Auditions / Details / Customers ==== */
 
-#auditions {
+#current_show {
 	background: #f7f8f9;
 	padding: 90px 0px 0px 0px;
 	text-align: center;
@@ -282,6 +282,11 @@ textarea:focus, input:focus, a:focus, a:visited, *:focus {
 
 #auditions i.yellow:hover, #details i.yellow {
 	color: #FCCA03;
+}
+
+#buy_tickets:hover {
+	background: #82376E;
+	border-radius: 5px;
 }
 
 /* ==== Section Headers ==== */
